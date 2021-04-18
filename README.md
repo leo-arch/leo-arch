@@ -1,4 +1,5 @@
 * Author of CliFM, isfree, and sids
+* Because I lived the age were computers were amazing and had no GUI
 
 <!--
 **leo-arch/leo-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
