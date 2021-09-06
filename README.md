@@ -1,4 +1,7 @@
 <h1 align="center">Archcrack</h1>
+
+<h3 align="center">Author of <a href="https://github.com/leo-arch/clifm">clifm</a>, <a href="https://github.com/leo-arch/isfree">isfree</a>, and <a href="https://github.com/leo-arch/pacfree">pacfree</a></h3>
+
 <h3 align="center">The command line is the source of our power</h3>
 
 <p
@@ -10,17 +13,6 @@ src="https://komarev.com/ghpvc/?username=leo-arch&label=Profile%20views&color=0e
 href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=leo-arch" 
 alt="leo-arch" /></a> </p>
-
-- Author [clifm](https://github.com/leo-arch/clifm), [isfree](https://github.com/leo-arch/isfree), and [pacfree](https://github.com/leo-arch/pacfree)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a
- href="https://twitter.com/archcrack" target="blank"><img 
-align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
- alt="archcrack" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p 
