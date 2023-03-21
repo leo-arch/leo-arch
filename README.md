@@ -1,4 +1,4 @@
-<h1 align="center">Archcrack</h1>
+<h1 align="center">Leo</h1>
 <h3 align="center">Because the command line is the source of our power</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leo-arch&label=Profile%20views&color=0e75b6&style=flat" alt="leo-arch" /> </p>
 
