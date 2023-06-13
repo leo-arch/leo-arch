@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leo-arch&label=Profile%20views&color=0e75b6&style=flat" alt="leo-arch" /> </p>
 
 <h3 align="left">Main projects: <a href="https://github.com/leo-arch/clifm">clifm</a> and <a href="https://github.com/leo-arch/fnf">fnf</a></h3>
-<h3 align="left">Secondary projects: <a href="https://github.com/leo-arch/isfree">isfree</a> and <a href="https://github.com/leo-arch/pacfree">pacfree</a></h3>
+<h3 align="left">Other projects: <a href="https://github.com/leo-arch/isfree">isfree</a> and <a href="https://github.com/leo-arch/pacfree">pacfree</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo-arch&theme=onedark&rank=SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true" alt="leo-arch" /></a> </p>
 
