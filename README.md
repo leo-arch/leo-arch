@@ -1,5 +1,5 @@
 <h1 align="center">Leo</h1>
-<h4 align="center">It is useless to answer that reality is also orderly. Perhaps it is, but in accordance with divine laws —I translate: inhuman laws— which we never quite grasp (Borges, <i>Tlön, Uqbar, Orbis Tertius</i>)</h4>
+<h4 align="center">"It is useless to answer that reality is also orderly. Perhaps it is, but in accordance with divine laws —I translate: inhuman laws— which we never quite grasp." (Borges, <i>Tlön, Uqbar, Orbis Tertius</i>)</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leo-arch&label=Profile%20views&color=0e75b6&style=flat" alt="leo-arch" /> </p>
 
 <h3 align="left">Main projects: <a href="https://github.com/leo-arch/clifm">clifm</a> and <a href="https://github.com/leo-arch/fnf">fnf</a></h3>
